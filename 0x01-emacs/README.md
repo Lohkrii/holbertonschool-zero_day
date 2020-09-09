@@ -1,0 +1,1 @@
+This folder contains the first part or the project 0x01 emacs
