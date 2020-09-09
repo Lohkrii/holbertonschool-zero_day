@@ -1,1 +1,1 @@
-This folder contains the first part or the project 0x01 emacs
+This folder contains the answers for the project 0x01 emacs.
