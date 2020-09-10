@@ -1,1 +1,0 @@
-This file contains what's in the C directory.
