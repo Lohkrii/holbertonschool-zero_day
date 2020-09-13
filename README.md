@@ -1,1 +1,0 @@
-his folder contains the directories for 0x0 prjects.
